@@ -4,7 +4,7 @@
   "description": "Basic scaffold for gatsbyJS with sanity CMS project",
   "dependencies": {},
   "devDependencies": {
-    "@edwmurph/eslint-config": "0.0.12"
+    "@edwmurph/eslint-config": "0.0.14"
   },
   "scripts": {
     "install-gatsby": "cd gatsby && npm install",
